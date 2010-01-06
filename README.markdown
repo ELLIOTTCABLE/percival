@@ -1,6 +1,6 @@
 Percival
 ========
-Percival painlessly perceives (perhaps, ‘pretty prints’?) peoples’ precious,
+Percival painlessly perceives (perhaps, ‘pretty prints?’) peoples’ precious,
 preferred possessions.
 
 In other words, Percival is a pretty printer / inspector for JavaScript
