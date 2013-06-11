@@ -2,7 +2,7 @@
 ,"description" : "Percival painlessly perceives (perhaps, ‘pretty prints’?) peoples’ precious, preferred possessions."
    
 ,       "name" : "percival"
-,    "version" : "0.9.9"
+,    "version" : "1.0.0"
 ,    "license" : "MIT"
 , "repository" :{"type":"git", "url":"git://github.com/ELLIOTTCABLE/percival.git"}
    
