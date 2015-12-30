@@ -1,9 +1,11 @@
 {     "author" : "ELLIOTTCABLE (http://ell.io/tt)"
-,"description" : "Percival painlessly perceives (perhaps, ‘pretty prints’?) peoples’ precious, preferred possessions."
    
 ,       "name" : "percival"
 ,    "version" : "1.0.0"
-,    "license" : "MIT"
+,    "license" : "ISC"
+
+,"description" : "Percival painlessly perceives (perhaps, ‘pretty prints’?) peoples’ precious, preferred possessions."
+
 , "repository" :{"type":"git", "url":"git://github.com/ELLIOTTCABLE/percival.git"}
    
 ,       "main" : "lib/percival.js"
